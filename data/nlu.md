@@ -1,0 +1,891 @@
+## intent:crop_disease
+- what is the cure for [powdery mildew](disease) in [apple](crop) crop
+- how to treat [powdery mildew](disease) in [apple](crop)
+- in [apple](crop) i have [premature leaf fall](disease) how to cure it
+- for [apple](crop) what is the solution for [premature leaf fall](disease)
+- i want to fix [alternaria leaf spot](disease) in my [apple](crop)
+- which product cures [alternaria leaf spot](disease) in [apple](crop) crop
+- there is [blight](disease) in [apple](crop) how to fix it
+- which product can we use with [cotton](crop) to treat [blight](disease)
+- what is the solution for [leaf spot](disease) in [cotton](crop) crop
+- do you have a product for [leaf spot](disease) in [cotton](crop) crop
+- how about a product that will cure [alternaria leaf blight](disease) in [cotton](crop)
+- how to prevent [alternaria leaf blight](disease) in [cotton](crop)
+- how to control [echinochloa sp](disease) of [cotton](crop)
+- what would you suggest for [echinochloa sp](disease) and [cotton](crop)
+- please give me a product that can cure [cynodon dactylon](disease) in my crop [grapes](crop)
+- how can i control [cynodon dactylon](disease) in my crop [grapes](crop)
+- what is the best way to control [dactylocteneum](disease) for [grapes](crop) crop
+- what is the dosage to control [dactylocteneum](disease) for [grapes](crop) crop
+- what solution should i spray to control [digitaria marginata](disease) in [grapes](crop)
+- please provide solutions for [digitaria marginata](disease) in [grapes](crop)
+- what is the best product in the market to treat [aegyptium](disease) for the crop [grapes](crop)
+- how to control [aegyptium](disease) disease
+- how to cure [whitefly](disease) disease
+- how to prevent [whitefly](disease) disease
+- how about a product that will cure [jassids](disease) disease
+- what are the solutions for [jassids](disease) in my crop
+- what is the solution for [downey mildew](disease) disease
+- what solution should i spray to control [downey mildew](disease)
+- what is the dosage to control [powdery mildew](disease) in my crop
+- what is the best way to control [premature leaf fall](disease) in my crop
+- what would you suggest for [alternaria leaf spot](disease)
+- how to treat [blight](disease) in my crop
+- please provide solutions for [leaf spot](disease) in my crop
+- what is the best product in the market to treat [alternaria leaf blight](disease)
+- how can i control [echinochloa sp](disease)
+- what are the solutions for [apple](crop) crop
+- what is the best product in the market for [apple](crop) crop
+- how can i control diseases in [apple](crop) crop
+- please provide solutions for [apple](crop) crop
+- what would you suggest for [cotton](crop) crop
+- what should i spray in [cotton](crop)
+- how to cure [cotton](crop) of diseases
+- curing [cotton](crop) of diseases
+- curing diseases in [grapes](crop)
+- preventing diseases in [grapes](crop) crop
+- what is the dosage in [grapes](crop)
+- [apple](crop)
+- [cotton](crop)
+- [grapes](crop)
+- [powdery mildew](disease)
+- [premature leaf fall](disease)
+- [alternaria leaf spot](disease)
+- [blight](disease)
+- [leaf spot](disease)
+- [alternaria leaf blight](disease)
+- [echinochloa sp](disease)
+- [cynodon dactylon](disease)
+- [dactylocteneum](disease)
+- [digitaria marginata](disease)
+- [aegyptium](disease)
+- [whitefly](disease)
+- [jassids](disease)
+- [downey mildew](disease)
+- my [cotton](crop) crop has [jassids](disease)
+- my [grapes](crop) has [powdery mildew](disease)
+- my [grapes](crop) crop is suffering from [downey mildew](disease). please help
+- my [apple](crop) has [powdery mildew](disease). help me
+- grapes has [downey mildew] please help
+- what is the cure for powdery mildew in apple crop?
+- i want to fix [alternaria leaf spot](disease)
+- [leaf](disease) spots
+- i want to know about [leaf spot](disease)
+- what is the solution for [leaf spot](disease)
+- i want solution for [grapes](crop)plant
+- which product can we use with [cotton](crop)
+- [powdery mildew](disease)
+- how to treat [powdery mildew](disease)
+- i need information on [leaf spot](disease)
+- how to treat [powdery mildew](disease)
+- how can i control [echinochloa sp](disease)
+- what should i spray in [cotton](crop)
+- what would you suggest for [echinochloa sp](disease)
+
+## intent:product_only
+- what all diseases does [acrisio](product) treat
+- what all diseases are treated by [cabrio top](product)
+- what all diseases does [merivon](product) cure
+- diseases cured by [priaxor](product) product
+- can i use [basta](product) product for my crop
+- how to use [sefina](product) product for my crop
+- what is the procedure to use [acrisio](product) product
+- how much [cabrio top](product) should i use for my crop
+- what is the mode of action of [merivon](product)
+- can  i take 2 spray of [priaxor](product) in my plot
+- may i know what is the best time to spray [basta](product) product
+- can we use [sefina](product) at this stage
+- what about [acrisio](product)
+- how to use [cabrio top](product)
+- usage of [merivon](product) product
+- can i use [priaxor](product) product for my crop [apple](crop)
+- how to use [basta](product) product for my crop [apple](crop)
+- what is the procedure to use [sefina](product) product on [apple](crop) crop
+- may i know what is the best time to spray [acrisio](product) on [cotton](crop) crop
+- can we use [prowl](product) at this stage for [cotton](crop) crop
+- may i know what is the best time to spray [merivon](product) on [cotton](crop)
+- i have [grapes](crop) can i use [priaxor](product)
+- for [grapes](crop) crop can we use [basta](product) product
+- can i use [sefina](product) product for my crop having [powdery mildew](disease) disease
+- how to use [acrisio](product) product for [premature leaf fall](disease)
+- what is the procedure to use [cabrio top](product) product in case of [alternaria leaf spot](disease) disease
+- may i know what is the best time to spray [merivon](product) in [blight](disease) disease
+- can we use [priaxor](product) at this stage for [leaf spot](disease)
+- may i know what is the best time to spray [basta](product) in [alternaria leaf spot](disease) disease
+- for [echinochloa sp](disease) disease can i use [sefina](product) product
+- my crop has [cynodon dactylon](disease) disease can i use [acrisio](product) product
+- can i use [cabrio top](product) product for my crop [apple](crop) having [dactylocteneum](disease) disease
+- how to use [merivon](product) product for [apple](crop) with [digitaria marginata](disease) disease
+- what is the procedure to use [priaxor](product) product in case of [aegyptium](disease) disease on [apple](crop) crop
+- may i know what is the best time to spray [basta](product) on [cotton](crop) in case of [whitefly](disease) disease
+- can we use [sefina](product) on [cotton](crop) at this stage for [jassids](disease)
+- may i know what is the best time to spray [acrisio](product) in [downey mildew](disease) disease for [cotton](crop)
+- for [powdery mildew](disease) disease in [cotton](crop) crop can i use [cabrio top](product) product
+- my crop [grapes](crop) has [premature leaf fall](disease) disease can i use [merivon](product) product
+- i have [grapes](crop) how to apply [priaxor](product) product to cure [alternaria leaf spot](disease) disease
+- [acrisio](product)
+- [cabrio top](product)
+- [merivon](product)
+- [priaxor](product)
+- [basta](product)
+- [sefina](product)
+- [merivan](product)
+- [cabrio](product)
+- what all diseases [merivan](product) treat
+- will [cabrio](product) treat blight
+- does [merivan](product) cure [blight]
+- for [grapes](crop) and [premature leaf fall](disease) can we use [merivan](product)
+
+## intent:product_type_only
+- which [fungicides](product_type) can be used for this crop
+- for this crop please suggest a [herbicides](product_type)
+- any [insecticides](product_type) to cure this disease
+- which [fungicides](product_type) can treat this disease
+- for this disease which [herbicides](product_type) can be used
+- which [insecticides](product_type) can be used for [apple](crop)
+- which [herbicides](product_type) can be used for [apple](crop)
+- for [apple](crop) which [insecticides](product_type) can be used
+- what are the [fungicides](product_type) should i use with [grapes](crop)
+- for [cotton](crop) crop please suggest a [fungicides](product_type)
+- any [herbicides](product_type) to cure [powdery mildew](disease) disease
+- which [insecticides](product_type) can treat [premature leaf fall](disease)
+- for [alternaria leaf spot](disease) disease which [fungicides](product_type) can be used
+- please suggest a [herbicides](product_type) for my crop [grapes](crop) having [blight](disease) disease
+- best [insecticides](product_type) for [leaf spot](disease) disease in [apple](crop)
+- for [alternaria leaf blight](disease) disease in [cotton](crop) crop which [fungicides](product_type) to use
+- my crop [grapes](crop) has [echinochloa sp](disease) disease which [herbicides](product_type) can treat it
+- i have [apple](crop) please suggest a [insecticides](product_type) to treat [cynodon dactylon](disease)
+
+## regex:number
+- ([0-9]{10})
+
+## intent:demo_only
+- please give me a demo 1234567890(number)
+- can i get a demo 9876543021(number)
+- a demo please for this product
+- a demo in my region would be great 9876543021(number)
+- please give me your representatives no
+- representative contact details
+- please send your representative contact no
+- share representative contact info
+- what is your phone number
+- what is your contact number
+- contact number
+- what is your number
+- where can i get your number
+- can i get your number
+
+## intent:shop_location
+- is this product available nearby
+- is this product available nearby my location
+- is this product available nearby my address
+- where can i find this product
+- where can i get this product
+- where to buy this product
+- from where can i buy this product
+- can i get this product near my location
+- can i get this product near my address
+- which dealer sells this product
+- which dealer sells this product near my location
+- which dealer sells this product near my address
+- is available at my location
+- is it available at my address
+- recommend a location to get this product from
+- recommend a address to get this product from
+- recommend shopping also with addresses
+- can i get this product nearby
+- can i get it at my location
+- can i get it at my address
+- can i get it nearby
+- where can i buy [merivon](product)
+- where to buy [merivon](product)
+- where to buy [acrisio](product)
+
+## intent:technical_details
+- what is technical composition
+- what is its technical composition
+- what is technical
+- what is composition
+- which technical and how much %
+- which technical and how much percent
+- technical composition of this product
+- technical composition for this product
+- this product's technical composition
+- technical composition of [acrisio](product)
+- composition of [cabrio top](product)
+- what is [merivon](product) technical composition
+- technical composition of [priaxor](product)
+- [basta](product) technical composition
+- technical composition for [sefina](product)
+- composition of [priaxor](product) and [merivon](product)
+
+## intent:greet
+- hi
+- hello! my name is [Sahil](person_name)
+- hi, can you help me
+- good morning! i am [Ravi](person_name).
+- i need your help!
+- can you help me?
+- help me!
+- Hi!
+- what do you do?
+- i grow [grape seed](crop)
+- i have [priaxor](disease)
+- Hi
+- hey
+- yo
+- hi i am [arshia](person_name)
+- Bom dia
+- Bonjour
+- Guten Morgen
+- HELLO
+- HEY
+- HEllo
+- Hallo
+- Hei
+- Helllloooooo
+- Hello!
+- Hey
+- Hey Sara
+- Hey bot
+- Heya
+- Heylo
+- Hi
+- Hi bot
+- Hi man
+- Hi there
+- Hi!
+- Hi'
+- Hi,
+- Hi, bot
+- Hieee
+- Hieeeeeeeeeeeee
+- Hola
+- I said, helllllloooooO!!!!
+- Well hello there ;)
+- What is up?
+- Whats up
+- Whats up my bot
+- Whats up?
+- ayyyy whaddup
+- bonjour
+- ey boss
+- good evening
+- good moring
+- good morning
+- greet
+- greetings
+- hai
+- hallo
+- hallo sara
+- halloo
+- halloooo
+- halo
+- halo sara
+- heeey
+- heelio
+- hell9o
+- hellio
+- hello
+- hello Sara
+- hello everybody
+- hello friend
+- hello hi
+- hello is anybody there
+- hello it is me again
+- hello robot
+- hello sara
+- hello sweatheart
+- hello sweet boy
+- hello there
+- hello world
+- hello, my name is [Charles Pfeffer](person_name)
+- hello?
+- hello]
+- hellooo
+- helloooo
+- helo
+- hey
+- hey bot
+- hey bot!
+- hey dude
+- hey hey
+- hey let's talk
+- hey rasa
+- hey sara
+- hey ther
+- hey there
+- hey there boy
+- hey there..
+- hey, let's talk
+- hey, sara!
+- heya
+- heyho
+- heyo
+- hhola
+- hi
+- hi !
+- hi Mister
+- hi again
+- hi can you speak ?
+- hi folks
+- hi friend
+- hi friends
+- hi hi
+- hi i'm [Sandra Hernandez](person_name)
+- hi im [Amanda Anderson](person_name)
+- hi mrs rasa
+- hi pal!
+- hi sara
+- hi there
+- hi there it's me
+- hi!
+- hiihihi
+- hiii
+- hola
+- howdy
+- i am [Karen Mease](person_name)
+- jojojo
+- jop
+- konichiwa
+- merhaba
+- rasa hello
+- salut
+- sup
+- wasssup
+- wasssup!
+- what up
+- whats popping
+- whats up
+- yo
+- yoo
+- ssup?
+- helleo
+
+## intent:thankyou
+- thank you
+- thank you very much
+- thank you for helping me
+- thank you for the help
+- Cool. Thanks
+- Great, thanks
+- Thank you
+- Thank you Sara
+- Thank you so much
+- Thank's!
+- Thanks
+- Thanks bot
+- Thanks for that
+- Thanks!
+- amazing, thanks
+- cheers
+- cheers bro
+- cool thank you
+- cool thanks
+- cool, thanks
+- danke
+- great thanks
+- ok thanks
+- ok thanks sara
+- ok thanks!
+- perfect thank you
+- thank u
+- thank you
+- thank you anyways
+- thanks
+- thanks a bunch for everything
+- thanks a lot
+- thanks for forum link, I'll check it out
+- thanks for the help
+- thanks this is great news
+- thanks you
+- thanks!
+- thankyou
+- thnks
+- thx
+- yes thanks
+- thanks for your information
+
+## intent:affirm
+- Accept
+- Awesome!
+- Good
+- Great
+- I accept
+- I accept.
+- I agree
+- I am using it
+- I changed my mind. I want to accept it
+- I do
+- I get it
+- I guess so
+- I have used it in the past
+- I will
+- I'd absolutely love that
+- I'm sure I will!
+- I'm using it
+- Nice
+- OK
+- Ofcourse
+- Oh yes
+- Oh, ok
+- Ok
+- Ok let's start
+- Ok.
+- Okay
+- Okay!
+- PLEASE
+- SURE
+- Sure
+- Sweet
+- That would be great
+- YES
+- YUP
+- Yea
+- Yeah
+- Yeah sure
+- Yep
+- Yep that's fine
+- Yep!
+- Yepp
+- Yes
+- Yes I do
+- Yes please
+- Yes please!
+- Yes, I accept
+- Yes.
+- Yup
+- a little
+- absolutely
+- accept
+- accepted
+- agreed
+- ah ok
+- alright
+- alright, cool
+- amayzing
+- amazing!
+- awesome
+- awesome!
+- confirm
+- cool story bro
+- definitely yes without a doubt
+- done
+- fair enough
+- fcourse
+- fine
+- fuck yeah!
+- go
+- go ahead
+- go for it
+- going super well
+- good.
+- great
+- great lets do that
+- great!
+- hell yeah
+- hell yes
+- hm, i'd like that
+- how nice!
+- i accept
+- i agree
+- i am!
+- i want that
+- i will!
+- it is ok
+- its okay
+- ja
+- ja cool
+- ja thats great
+- jezz
+- jo
+- k
+- kk
+- lets do it
+- lets do this
+- not bad
+- of course
+- ofcoure i do
+- ofcourse
+- oh awesome!
+- oh cool
+- oh good !!
+- oh super
+- ok
+- ok cool
+- ok fine
+- ok friend
+- ok good
+- ok great
+- ok i accept
+- ok sara
+- ok, I behave now
+- ok, I understood
+- ok, Sara
+- ok...
+- okay
+- okay cool
+- okay sure
+- okay..
+- oki doki
+- okie
+- ook
+- oui
+- perfect
+- please
+- si
+- sort of
+- sure
+- sure thing
+- sure!
+- that is cool
+- that ok
+- that sounds fine
+- that's great
+- thats fine
+- thats good
+- thats great
+- top
+- uh-huh
+- very much
+- well yes
+- y
+- ya
+- ya cool
+- ya go for it
+- ya i want
+- ya please
+- ya thats cool
+- yaah
+- yap
+- yaps
+- yas
+- yay
+- ye
+- ye splease
+- yea
+- yeah
+- yeah do that
+- yeah sure
+- yeah'=
+- yeah, why not
+- yeeeeezzzzz
+- yeeees
+- yep
+- yep i want that
+- yep if i have to
+- yep please
+- yep that's nice
+- yep thats cool
+- yep, will do thank you
+- yep. :/
+- yes
+- yes ...
+- yes I do
+- yes accept please
+- yes baby
+- yes cool
+- yes give me information
+- yes go ahead
+- yes go for it
+- yes great
+- yes i accept
+- yes i agree
+- yes i have built a bot before
+- yes i have!
+- yes it is
+- yes it was okay
+- yes of course
+- yes pleae
+- yes please
+- yes please!
+- yes pls
+- yes sirfr
+- yes that's great
+- yes that's what i want
+- yes you can
+- yes'
+- yes, I'd love to
+- yes, cool
+- yes, give me information, please
+- yes,i am
+- yes.
+- yesh
+- yess
+- yessoo
+- yesss
+- yesssss
+- yesyestyes
+- yesyesyes
+- yez
+- yop
+- you asked me a yes or no question, which i answered with yes
+- you got me, I accept, if you want me to
+- yres
+- ys
+- yup
+- yyeeeh
+- Okay cool
+- ok..
+- considering
+- More a less
+- cool beans
+- sounds good!
+- really
+
+## intent:out_of_scope
+- not sure
+- note sure
+- not sur
+- note sur
+- Hey! wanna chit chat
+- Why are you a robot?
+- hey want popcorn?
+- lets play
+- wanna hangout
+- so whats cooking?
+- any recipes you know?
+
+## intent:crop_problem_unclear
+- in my [apple](crop) orchard apple trees are affected by water and leaves are going yellow and also scab like disease in leaves can be seen with black spots
+- what to do on [cotton](crop) fruit a small hole develops on fruit and an pest enters outer  covering is there internally it is ended . remedy.
+- upper newly developed branches are showing burning like situation on [grapes](crop) trees remedy
+- how to increase or improve [apple](crop) froot size
+- what is the reason for late flowering in our [cotton](crop) plants?. how can we remove such issue?
+- the colour of my [grapes](crop) is voilet.... What happened to my apples
+- in black [apple](crop) varity for late pruning how to solve colourig formation. resently 2 to 3 years these are major problem
+- for [cotton](crop) better colour what needs to do reply plz
+
+## intent:user_location
+- [himachal pradesh](region)
+- [jammu & kashmir](region)
+- [punjab](region)
+- [haryana](region)
+- [gujarat](region)
+- [andra pradesh](region)
+- [andra](region)
+- [rajasthan](region)
+- [madhya pradesh](region)
+- [karnataka](region)
+- [tamilnadu](region)
+- [maharashtra](region)
+- [himachal](region)
+- [uttar pradesh](region)
+- [kashmir](region)
+- [mp](region)
+
+## intent:product_dosage
+- what is the dosage of [merivon](product)
+- dosage of [priaxor](product)
+- can you tell me the dosage of [cabrio top](product)
+- will you tell me dosage of [basta](product)
+- tell me dosage of [sefina](product)
+- dosage of [acrisio](product)
+- [merivon](product) dose
+- [merivan](product) dose
+- [cabrio](product) dose
+- [cabrio top](product) dose
+
+## intent:job_enquiry
+- i am a bsc graduate help me with job
+- i am graduate from NIT . help me with the job
+- i need job
+- jobs available?
+- i am graduate need job please help
+- help me with job
+- i have completed my AgBsc sir is there any vaccines sir
+- any vacancy?
+- i have completed bsc
+- i am bsc graduate. can you help me with job?
+- sir job plz. help me
+- are you hiring?
+- do you have jobs available?
+- i want to work for BASF
+
+## intent:contact_number
+- what is your number?
+- what is your phone number?
+- please give number
+- number give plz
+- plz number
+- plz give number
+- number plz
+- number please
+- number pleaz
+- contact number?
+- contact please
+- contact plz
+- sir what is your number?
+- sir what is your phone number?
+- sir number please
+- sir plz number
+- sir number plz
+
+## intent:basf_appreciation
+- great product!
+- love your products.
+
+## intent:mood_great
+- i am good
+- i am fine
+
+## intent:mood_unhappy
+- i am sad
+- i am depressed 
+- bored
+- i feel anxiety
+- i am sad because my crop is destroyed.
+
+## intent:deny
+- No! I would like to correct some information.
+- nope
+- I dont want it
+- not required
+- no i am cool
+- no dont submit
+- nooooo
+- never
+- didnt help
+- this did not help me
+- I don't want to
+- I don't want to give it to you
+- I don't want to say
+- I dont want to tell
+- I'm not giving you my email address
+- I'm not going to give it to you
+- NEIN
+- NO
+- NO DON"T WANT THIS!
+- Nah
+- Neither
+- Never
+- Nevermind
+- No
+- No thank you
+- No, not really.
+- No, thank you
+- No.
+- Nopes
+- Not really
+- absolutely not
+- decline
+- definitely not
+- deny
+- i decline
+- i don not like this
+- i don't think so
+- i don't want either of those
+- i don't want to
+- i don't want to give you my email
+- i dont want to
+- i dont want to accept :P lol
+- i guess it means - no
+- i'm afraid not
+- i'm not sure
+- it is going pretty badly
+- it sucks
+- it sux
+- n
+- na
+- nah
+- nah I'm good
+- nah not for me
+- nah, first time
+- nah, i'm good
+- nehi
+- nein
+- neither
+- never
+- never mind
+- no
+- no :(
+- no I dont want
+- no I haven't decided yet if I want to sign up
+- no and no again
+- no bots at all
+- no go
+- no i can't
+- no i don't accept
+- no i dont want to
+- no i dont want to accept :P lol
+- no i won't
+- no ma'am
+- no sir
+- no sorry
+- no thank s
+- no thank you
+- no thanks
+- no way
+- no you did it wrong
+- no!!!!
+- no, i hate it
+- no, my frst time
+- no, thank you
+- no, thanks
+- no, thankyou
+- no. u r idiot
+- non
+- noooooooooo
+- noooooooooooooooooooooooooooooooooooooooo
+- nop
+- nope
+- nope!
+- nope. i am good
+- not going well at all
+- not really
+- not right now
+- not yet
+- nö
+- sorry not right now
+- still dont want to tell
+- thanks but no thanks
+- this sucks
+- very bad
+- I don't wanna tell the name of my company
+- no stop
+- stop it, i do not care!!!
+- none of them
+- I don't agree
+
+## intent:bye
+- Bye
+- Bye bye
+- adios
+- adios?
+- bye
+- bye .
+- bye :P
+- bye bot
+- bye bye
+- bye bye bot
+- bye for now
+- bye udo
+- bye was nice talking to you
+- bye!
+- byee
+- catch you later
+- ciao
+- cya
+- farewell
+- good bye
+- good bye rasa bot!
+- good night
+- goodbye.
+- goodnight
+- gotta go
+- k byyye #slay
+- ok Bye
+- ok bye
+- ok, bye
+- ok.bye
+- see u later
+- see ya
+- see you
+- see you . bye
+- take care
+- then bye
+- tlak to you later
+- toodle-oo
+- Exit
+- Close this talk
+- byr
