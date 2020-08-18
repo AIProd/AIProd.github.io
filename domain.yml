@@ -1,0 +1,136 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- thankyou
+- affirm
+- mood_great
+- mood_unhappy
+- deny
+- not_sure
+- crop_disease
+- product_only
+- product_type_only
+- demo_only
+- shop_location
+- technical_details
+- crop_problem_unclear
+- user_location
+- product_dosage
+- job_enquiry
+- contact_number
+- basf_appreciation
+- inform
+- demo
+- shop_locator
+- goodbye
+- BASF_form
+- manual_intervention
+- technical_composition
+- choose
+- redirect
+- bot_challenge
+- out_of_scope
+- regex
+- bye
+entities:
+- crop
+- disease
+- product
+- product_type
+- region
+- person_name
+slots:
+  crop:
+    type: unfeaturized
+  disease:
+    type: unfeaturized
+  person_name:
+    type: unfeaturized
+  product:
+    type: unfeaturized
+  product_type:
+    type: unfeaturized
+  region:
+    type: unfeaturized
+responses:
+  utter_greet:
+  - buttons:
+    - payload: Yes
+      title: Yes
+    - payload: No
+      title: No
+    text: Hey {person_name}!– thanks for your message. I am the BASF Agricultural
+      Solutions virtual assistant. I’m eager to help get you an answer to your question,
+      but first, can I have your permission for BASF to save the information from
+      our conversation to provide you with better service?
+  - buttons:
+    - payload: Yes
+      title: Yes
+    - payload: No
+      title: No
+    text: Hey There!– thanks for your message. I am the BASF Agricultural Solutions
+      virtual assistant. I’m eager to help get you an answer to your question, but
+      first, can I have your permission for BASF to save the information from our
+      conversation to provide you with better service?
+  utter_how_can_i_help:
+  - text: How can I help you?
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - buttons:
+    - payload: /thankyou
+      title: Yes! Thankyou
+    - payload: /deny
+      title: No! i want to input again.
+    text: Did that help you?
+  utter_goodbye:
+  - text: Bye
+  utter_thanks:
+  - text: It was a pleasure helping you out.
+  utter_ask_region:
+  - text: Can you please help me with your state information?
+  utter_demo:
+  - text: Someone will reach out for the demo.
+  utter_manual_intervention:
+  - text: Thanks. I cannot provide an answer now, but someone from Technical Team
+      will contact you soon.
+  utter_agent_call:
+  - text: I have raised a request with agent. Our executive will call you soon at
+      you given number. Thanky you!
+  utter_shop_locator:
+  - text: Please use our online retailer shop finder URL to find your nearest shop
+      that carries BASF products.
+  utter_product_only:
+  - text: Please refer to this product {product} for more information {P_H_2}
+  utter_technical_composition:
+  - text: Composition of product {product} is given in the link. Please refer to P_H_3
+      for more details.
+  utter_ask_crop:
+  - buttons:
+    - payload: '/choose{"crop": "apple"}'
+      title: apple
+    - payload: '/choose{"crop": "cotton"}'
+      title: cotton
+    - payload: '/choose{"crop": "grapes"}'
+      title: grapes
+    text: Before I can provide you an answer, can you tell me what crop you are growing?
+  utter_happy:
+  - text: Great, carry on!
+  utter_ask_disease:
+  - text: Can you please specify the disease name that has affected your {crop}?
+  utter_submit:
+  - text: Your crop name is {crop} and your crop disease is {disease}. Is that correct?
+  utter_info_link:
+  - text: please go through the link https://blog.agrivi.com/post/crop-diseases-the-nightmare-of-every-farmer#:~:text=Crop%20disease%20involves%20any%20harmful,processes%20and%20their%20vital%20functions
+      as given related to your query.
+  utter_more:
+  - text: Would you like me to help you with anything else?
+forms:
+- BASF_form
+- disease_input
+- product_input
+- user_location_input
+- contact_number_input
