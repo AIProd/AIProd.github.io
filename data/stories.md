@@ -6,12 +6,13 @@
 
 ## crop only query resolved
 * greet
+  - action_greet_user
   - utter_greet
 * affirm
   - utter_how_can_i_help
 * crop_disease
-  - BASF_form                   
-  - form{"name":"BASF_form"}   
+  - crop_disease_form
+  - form{"name":"crop_disease_form"}   
   - form{"name":null}
 * affirm
   - utter_info_link
@@ -24,21 +25,39 @@
 
 ## crop only query not-resolved
 * greet
+  - action_greet_user
   - utter_greet
 * affirm
   - utter_how_can_i_help
 * crop_disease
-  - BASF_form                   
-  - form{"name":"BASF_form"}   
+  - crop_disease_form
+  - form{"name":"crop_disease_form"}   
   - form{"name":null}
 * deny
   - utter_manual_intervention
 
 ## user deny on conversation saving
 * greet
+  - action_greet_user
   - utter_greet
 * deny
   - utter_goodbye
+
+
+## greet
+* greet 
+    - action_greet_user
+  
+## demo only 
+* demo_only
+  - action_contact_number_input
+  - utter_demo
+* goodbye
+
+## demo only 
+* demo_only
+  - utter_demo
+* goodbye
 
 ## fallback story
 * out_of_scope
@@ -83,28 +102,15 @@
     - utter_how_can_i_help
     - slot{"disease":"leaf spot"}
 * crop_disease{"disease":"leaf spot"}
-    - BASF_form
-    - form{"name":"BASF_form"}
+    - crop_disease_form
+    - form{"name":"crop_disease_form"}
     - slot{"crop":"grapes"}
 * choose{"crop":"grapes"}
-    - BASF_form
+    - crop_disease_form
 * affirm
     - utter_info_link
     - utter_happy
 
-## New Story
-
-* greet
-    - utter_greet
-* affirm
-    - utter_how_can_i_help
-* product_only
-    - product_input
-    - form{"name":"product_input"}
-    - form{"disease":"Null"}
-* affirm
-  - utter_info_link
-  - utter_more
 
 ## New Story
 
@@ -116,8 +122,8 @@
 * crop_disease{"crop":"cotton","disease":"jassids"}
     - slot{"crop":"cotton"}
     - slot{"disease":"jassids"}
-    - BASF_form
-    - form{"name":"BASF_form"}
+    - crop_disease_form
+    - form{"name":"crop_disease_form"}
     - slot{"crop":"cotton"}
 * affirm
     - utter_info_link
@@ -127,8 +133,36 @@
     - slot{"disease":"leaf spot"}
 * crop_disease{"disease":"leaf spot"}
     - slot{"disease":"leaf spot"}
-    - BASF_form
-    - form{"name":"BASF_form"}
+    - crop_disease_form
+    - form{"name":"crop_disease_form"}
+    - slot{"crop":"cotton"}
+* deny
+    - utter_manual_intervention
+* goodbye
+    - utter_goodbye
+
+## New Story
+
+* greet
+    - utter_greet
+* affirm
+    - utter_how_can_i_help
+* crop_disease{"crop":"cotton","disease":"jassids"}
+    - slot{"crop":"cotton"}
+    - slot{"disease":"jassids"}
+    - crop_disease_form
+    - form{"name":"crop_disease_form"}
+    - slot{"crop":"cotton"}
+* affirm
+    - utter_info_link
+    - utter_more
+* affirm
+    - utter_how_can_i_help
+    - slot{"disease":"leaf spot"}
+* crop_disease{"disease":"leaf spot"}
+    - slot{"disease":"leaf spot"}
+    - crop_disease_form
+    - form{"name":"crop_disease_form"}
     - slot{"crop":"cotton"}
 * deny
     - utter_manual_intervention

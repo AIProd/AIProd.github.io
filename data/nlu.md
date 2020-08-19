@@ -66,13 +66,12 @@
 - my [grapes](crop) has [powdery mildew](disease)
 - my [grapes](crop) crop is suffering from [downey mildew](disease). please help
 - my [apple](crop) has [powdery mildew](disease). help me
-- grapes has [downey mildew] please help
+- grapes has [downey mildew](disease) please help
 - what is the cure for powdery mildew in apple crop?
 - i want to fix [alternaria leaf spot](disease)
-- [leaf](disease) spots
 - i want to know about [leaf spot](disease)
-- what is the solution for [leaf spot](disease)
-- i want solution for [grapes](crop)plant
+- what is the solution for [leaf spots](disease)
+- i want solution for [grapes](crop) plant
 - which product can we use with [cotton](crop)
 - [powdery mildew](disease)
 - how to treat [powdery mildew](disease)
@@ -673,6 +672,12 @@
 - [uttar pradesh](region)
 - [kashmir](region)
 - [mp](region)
+- [delhi](region)
+- [gurgaon](region)
+- [darjeeling](region)
+- [sikkim](region)
+- [andhra pradesh](region)
+- [Bihar](region)
 
 ## intent:product_dosage
 - what is the dosage of [merivon](product)
@@ -724,6 +729,10 @@
 ## intent:basf_appreciation
 - great product!
 - love your products.
+- i like the product
+- nice work done
+- well done
+- i am happy with your service
 
 ## intent:mood_great
 - i am good
