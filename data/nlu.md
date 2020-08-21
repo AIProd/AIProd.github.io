@@ -705,7 +705,7 @@
 - sir job plz. help me
 - are you hiring?
 - do you have jobs available?
-- i want to work for BASF
+- i want to work for ABC
 
 ## intent:contact_number
 - what is your number?
@@ -726,7 +726,7 @@
 - sir plz number
 - sir number plz
 
-## intent:basf_appreciation
+## intent:appreciation
 - great product!
 - love your products.
 - i like the product
